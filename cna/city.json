@@ -1,4 +1,4 @@
-const c = [
+[
 "Aabsara-Punjab",
 "Aanganpur-Sindh",
 "Aanjanabad-Khyber Pakhtunkhawa",
@@ -347,9 +347,4 @@ const c = [
 "Wazirabad-Gujranwala-Punjab",
 "Yazman-Punjab",
 "Zaffarwal-Punjab"
-];
-
-
-
-
-
+]

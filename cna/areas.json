@@ -1,4 +1,4 @@
-const c = {
+{
     "Aabsara-Punjab": [
         "Other - Aabsara"
     ],
@@ -102,7 +102,7 @@ const c = {
         "Thandiani Chowk - Abbottabad",
         "Upper Malikpura - Abbottabad",
         "Upper Salhad - Abbottabad",
-        "Usmanabad - Abbottabad",
+        "Usmanabad - Abbottabad"
     ],
     "Abdul Hakim-Punjab": [
         "Ali Chapra Southern - Abdul Hakim",
@@ -117,7 +117,7 @@ const c = {
         "Cantonement - Abdul Hakim",
         "Mubarakabad - Abdul Hakim",
         "Other - Abdul Hakim",
-        "Rehman Town - Abdul Hakim",
+        "Rehman Town - Abdul Hakim"
     ],
     "Ahmed Pur East-Punjab": [
         "Other - Ahmed Pur East"
@@ -127,7 +127,7 @@ const c = {
     ],
     "Akora Khattak-Khyber Pakhtunkhawa": [
         "Mohalla Khon Din Baba - Akora Khattak",
-        "Other - Akora Khattak",
+        "Other - Akora Khattak"
     ],
     "Ali Pur Chatta-Punjab": [
         "Chowk Chabali - Ali Pur Chatta",
@@ -2560,7 +2560,7 @@ const c = {
     "Gaggoo Mandi-Punjab": [
         "Ahmad Town - Gaggoo Mandi",
         "Jamia Ashraful Uloom - Gaggoo Mandi",
-        "Other - Gaggoo Mandi",
+        "Other - Gaggoo Mandi"
     ],
     "Gambat-Sindh": [
         "Other - Gambat"
@@ -12352,4 +12352,4 @@ const c = {
         "Shakargarh Road - Zaffarwal",
         "Sialkot Road - Zaffarwal"
     ]
-};
+}
